@@ -1,0 +1,118 @@
+{
+  "items": [
+    {
+      "id": 1,
+      "title": "Bol Do Na Zara",
+      "singer": "Armaan Malik",
+      "genre": "Romantic",
+      "imgUrl": "https://c.saavncdn.com/709/Bol-Do-Na-Zara-Instrumental-Hindi-2018-20181221231527-500x500.jpg",
+      "songUrl": "Songs/Bol Do Na Zara.mp3"
+    },
+    {
+      "id": 2,
+      "title": "Chaleya",
+      "singer": "Arijit Singh",
+      "genre": "Romantic",
+      "imgUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/chaleya-song-141618193-1x1.jpg?VersionId=4H9DEXybp0zu2rGuku7n_C2z8stxuBJZ",
+      "songUrl": "Songs/chaleya.mp3"
+    },
+    {
+      "id": 4,
+      "title": "Saari Duniya Jalaa Denge",
+      "singer": "B Praak",
+      "genre": "Emotional",
+      "imgUrl": "https://c.saavncdn.com/623/Saari-Duniya-Jalaa-Denge-From-ANIMAL-Hindi-2023-20231124191004-500x500.jpg",
+      "songUrl": "Songs/Saari Duniya Jalaa Denge.mp3"
+    },
+    {
+      "id": 5,
+      "title": "Sanam Teri Kasam",
+      "singer": "Ankit Tiwari",
+      "genre": "Emotional",
+      "imgUrl": "https://i.scdn.co/image/ab67616d0000b2731c79ed9daa0ef22e185c71cd",
+      "songUrl": "Songs/Sanam Teri Kasam.mp3"
+    },
+    {
+      "id": 6,
+      "title": "Kissik (From  Pushpa 2 The Rule )",
+      "singer": " Sublahshini, Devi Sri Prasad, Viveka",
+      "genre": "Emotional",
+      "imgUrl": "https://c.saavncdn.com/617/Kissik-From-Pushpa-2-The-Rule-Tamil-Tamil-2024-20241124192121-500x500.jpg",
+      "songUrl": "Songs/Kissik (From  Pushpa 2 The Rule ) [TAMIL] - Sublahshini, Devi Sri Prasad, Viveka.m4a"
+    },
+    {
+      "id": 7,
+      "title": "Chalo Hyderabad (From  Premalu )",
+      "singer": "Vishnu Vijay",
+      "genre": "Emotional",
+      "imgUrl": "https://a10.gaanacdn.com/gn_img/albums/qaLKY623pO/LKYANgApKp/size_l_1734597239.jpg",
+      "songUrl": "Songs/Chalo Hyderabad (From  Premalu ) - Vishnu Vijay.m4a"
+    },
+    {
+      "id": 8,
+      "title": "Fear Song",
+      "singer": "Anirudh Ravichander, Vishnu Edavan",
+      "genre": "Emotional",
+      "imgUrl": "https://c.saavncdn.com/320/Devara-Part-1-Tamil-Tamil-2024-20240926171017-500x500.jpg",
+      "songUrl": "Songs/Fear Song.m4a"
+    }
+  ],
+  "favorities": [
+    {
+      "itemId": 2,
+      "title": "Chaleya",
+      "imgUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/chaleya-song-141618193-1x1.jpg?VersionId=4H9DEXybp0zu2rGuku7n_C2z8stxuBJZ",
+      "genre": "Romantic",
+      "songUrl": "Songs/chaleya.mp3",
+      "singer": "Arijit Singh",
+      "id": 1
+    },
+    {
+      "itemId": 1,
+      "title": "Bol Do Na Zara",
+      "imgUrl": "https://c.saavncdn.com/709/Bol-Do-Na-Zara-Instrumental-Hindi-2018-20181221231527-500x500.jpg",
+      "genre": "Romantic",
+      "songUrl": "Songs/Bol Do Na Zara.mp3",
+      "singer": "Armaan Malik",
+      "id": 2
+    }
+  ],
+  "playlist": [
+    {
+      "itemId": 2,
+      "title": "Chaleya",
+      "imgUrl": "https://akm-img-a-in.tosshub.com/indiatoday/images/media_bank/202309/chaleya-song-141618193-1x1.jpg?VersionId=4H9DEXybp0zu2rGuku7n_C2z8stxuBJZ",
+      "genre": "Romantic",
+      "songUrl": "Songs/chaleya.mp3",
+      "singer": "Arijit Singh",
+      "id": 7
+    },
+    {
+      "itemId": 7,
+      "title": "Chalo Hyderabad (From  Premalu )",
+      "imgUrl": "https://a10.gaanacdn.com/gn_img/albums/qaLKY623pO/LKYANgApKp/size_l_1734597239.jpg",
+      "genre": "Emotional",
+      "songUrl": "Songs/Chalo Hyderabad (From  Premalu ) - Vishnu Vijay.m4a",
+      "singer": "Vishnu Vijay",
+      "id": 8
+    },
+    {
+      "itemId": 6,
+      "title": "Kissik (From  Pushpa 2 The Rule )",
+      "imgUrl": "https://c.saavncdn.com/617/Kissik-From-Pushpa-2-The-Rule-Tamil-Tamil-2024-20241124192121-500x500.jpg",
+      "genre": "Emotional",
+      "songUrl": "Songs/Kissik (From  Pushpa 2 The Rule ) [TAMIL] - Sublahshini, Devi Sri Prasad, Viveka.m4a",
+      "singer": " Sublahshini, Devi Sri Prasad, Viveka",
+      "id": 10
+    },
+    {
+      "itemId": 1,
+      "title": "Bol Do Na Zara",
+      "imgUrl": "https://c.saavncdn.com/709/Bol-Do-Na-Zara-Instrumental-Hindi-2018-20181221231527-500x500.jpg",
+      "genre": "Romantic",
+      "songUrl": "Songs/Bol Do Na Zara.mp3",
+      "singer": "Armaan Malik",
+      "id": 11
+    }
+  ]
+}
